@@ -1,2 +1,2 @@
 # Face-Mask-Recognition
-detect the if the person wearing a mask or not and the bounding box 
+detecting if the person wearing a mask or not and the bounding box 
